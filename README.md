@@ -1,0 +1,2 @@
+# MapInterface
+collection
